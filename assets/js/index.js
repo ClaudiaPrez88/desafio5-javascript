@@ -1,18 +1,17 @@
 let lista_tareas = [
     {
         id: 1,
-        descripcion: 'tarea en el bosque',
+        descripcion: 'Sacar los perros a pasear por la mañana',
         status: true,
     },
     {
         id: 2,
-        descripcion:
-            'Moderno departamento en el corazón de la ciudad, cerca de todas las comodidades.',
+        descripcion:'Lavar la ropa',
         status: false,
     },
     {
         id: 3,
-        descripcion: 'Chalet en la montaña',
+        descripcion: 'Barrer la casa',
         status: true,
     }
 ]
